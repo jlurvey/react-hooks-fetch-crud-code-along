@@ -35,6 +35,12 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "broccoli",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
